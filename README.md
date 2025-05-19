@@ -39,10 +39,10 @@ An AI-powered system that predicts student academic performance and provides per
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
 3. Install dependencies:
-    bash
+    '''bash
     pip install -r backend/requirements.txt
 4. Set up environment variables in backend/.env
 
 5. Run the server:
-    bash
+    '''bash
     python backend/app.py
